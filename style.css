@@ -1,0 +1,30 @@
+button {
+    font-weight: bold !important;
+}
+
+input {
+    width: 25rem;
+    background-color: rgb(70, 44, 44);
+    color: white;
+    border: none;
+    padding: 6px;
+    border-radius: 10px;
+    /* outline: none; */
+}
+
+input:focus {
+    outline: none;
+}
+
+.food {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 2rem;
+    margin-top: 2rem;
+    align-items: center;
+}
+
+/* body::-webkit-scrollbar {
+ display: none;
+ } */

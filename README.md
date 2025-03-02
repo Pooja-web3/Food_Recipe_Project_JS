@@ -1,4 +1,4 @@
-Recipe App
+ Recipe App<br>
 A simple and interactive Recipe App built using HTML, CSS, and JavaScript that allows users to search and explore a variety of Indian and Western recipes. The app fetches real-time recipe data using a third-party API and provides an intuitive user experience.
 <BR>
 ✨ Features<BR>
